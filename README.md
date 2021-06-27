@@ -1,9 +1,8 @@
 # Data Science Workflow & Engineering Pipeline
-## Task 2
-### 10 Accademy intensive challenge week 
-#### Writing first interim report 
+## Task 2 - Writing first interim report 
+### 10 Accademy intensive challenge week (Date: 21.6.2021 to 25.6.2021)
 
-##### What I did 
+#### What I did 
 
 In the report I described the technical activities I have done so far setting up a workflow to analyse twitter data.
 In the report 
