@@ -1,6 +1,6 @@
 # Data Science Workflow & Engineering Pipeline
 ## Task 2 - Writing first interim report 
-### 10 Accademy intensive challenge week (Date: 21.6.2021 to 25.6.2021)
+### 10 Accademy intensive challenge week `(Date: 21,June,2021 - 25,June,2021)`
 
 #### What I did 
 
